@@ -1,0 +1,147 @@
+.bike-sec1{
+    margin-top: 100px;
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+
+}
+
+h3{
+    margin-top: 20px;
+    color: aliceblue;
+}
+.bike-sec2{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+
+
+
+
+}
+.pants{
+width: 400px;
+height: 300px;
+}
+
+
+.gear{
+width: 400px;
+height: 300px;
+}
+
+.name{
+    border-bottom: 2px solid #7c4dff;
+    border-radius: 100%;
+    color: rgb(120, 246, 248);
+    font-size: 30px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.are-you{
+    font-size: 25px;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.surf{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+.naked1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+
+    background-color: black;
+    width: 400px;
+}
+
+
+.card-title{
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+.wwww{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cb10001{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+
+
+}
+
+
+
+
+
+
+#namee{
+margin: auto;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
